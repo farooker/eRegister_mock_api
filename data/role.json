@@ -1,0 +1,43 @@
+{
+  "is_success": true,
+  "code": "200",
+  "message": "Ok",
+  "data": [
+      {
+          "id": 6,
+          "name": "Business Partner",
+          "description": "[Description] Business Partner",
+          "is_active": true
+      },
+      {
+          "id": 5,
+          "name": "Business Partner Admin",
+          "description": "[Description] Business Partner Admin",
+          "is_active": true
+      },
+      {
+          "id": 4,
+          "name": "Account",
+          "description": "[Description] Account",
+          "is_active": true
+      },
+      {
+          "id": 3,
+          "name": "SD Team",
+          "description": "[Description] SD Team",
+          "is_active": true
+      },
+      {
+          "id": 2,
+          "name": "Admin",
+          "description": "[Description] Admin",
+          "is_active": true
+      },
+      {
+          "id": 1,
+          "name": "Super Admin",
+          "description": "",
+          "is_active": true
+      }
+  ]
+}

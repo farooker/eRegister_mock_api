@@ -1,0 +1,1027 @@
+{
+  "is_success": true,
+  "code": "200",
+  "message": "Ok",
+  "data": [
+      {
+          "id": 51,
+          "company_code": "5003",
+          "name_th": "บริษัท มัส บี จำกัด",
+          "name_en": "MUST BE Co., Ltd.",
+          "taxpayer_id_number": "0105565131781",
+          "address_th": "62 ถนนรัชดาภิเษก แขวงคลองเตย เขตคลองเตย กรุงเทพมหานคร 10110",
+          "address_en": "62 Ratchadapisek Road, Klongtoey Sub-District, Klongtoey District, Bangkok 10110",
+          "business_unit": {
+              "id": 4,
+              "name_th": "FPHT & Others",
+              "name_en": "FPHT & Others",
+              "purchasing_organization": "FPHT"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:18Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:18Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 50,
+          "company_code": "5002",
+          "name_th": "บริษัท เฟรเซอร์ส พร็อพเพอร์ตี้ คอร์เปอร์เรท เซอร์วิสเซส (ประเทศไทย) จำกัด",
+          "name_en": "Frasers Property Corporate Services (Thailand) Co.,Ltd.",
+          "taxpayer_id_number": "0105564174495",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+          "business_unit": {
+              "id": 4,
+              "name_th": "FPHT & Others",
+              "name_en": "FPHT & Others",
+              "purchasing_organization": "FPHT"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:18Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:18Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 49,
+          "company_code": "5001",
+          "name_th": "บริษัท เฟรเซอร์ส แอสเซ็ทส์ จำกัด",
+          "name_en": "Frasers Assets Co., Ltd.",
+          "taxpayer_id_number": "0105561003819",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+          "business_unit": {
+              "id": 4,
+              "name_th": "FPHT & Others",
+              "name_en": "FPHT & Others",
+              "purchasing_organization": "FPHT"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:18Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:18Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 48,
+          "company_code": "5000",
+          "name_th": "บริษัท เฟรเซอร์ส พร็อพเพอร์ตี้ โฮลดิ้งส์ (ประเทศไทย) จำกัด  ",
+          "name_en": "Frasers Property Holdings (Thailand) Co.,Ltd.",
+          "taxpayer_id_number": "0105558178352",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ห้องเลขที่ S23003 ชั้นที่ 23 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": " 944 Mitrtown Office Tower, Room No. S23003, 23rd Floor, Rama 4 Road, Wangmai Subdistrict, Pathumwan District, Bangkok 10330",
+          "business_unit": {
+              "id": 4,
+              "name_th": "FPHT & Others",
+              "name_en": "FPHT & Others",
+              "purchasing_organization": "FPHT"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:18Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:18Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 47,
+          "company_code": "6023",
+          "name_th": "บริษัท พีบีเอ โรบอทิคส์ (ประเทศไทย) จำกัด",
+          "name_en": "PBA Robotics (Thailand) Co., Ltd.",
+          "taxpayer_id_number": "0105562089792",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 22-23 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": " 944 Mitrtown Office Tower, 22nd- 23rd Floor, Rama 4 Road, Wangmai Subdistrict, Pathumwan District, Bangkok 10330",
+          "business_unit": {
+              "id": 3,
+              "name_th": "Industrial",
+              "name_en": "Industrial",
+              "purchasing_organization": "FPT"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:18Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:18Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 46,
+          "company_code": "6022",
+          "name_th": "บริษัท เฟรเซอร์ส พร็อพเพอร์ตี้ ศูนย์บริหารเงิน (ประเทศไทย) จำกัด",
+          "name_en": "Frasers Property Treasury Center (Thailand) Company Limited",
+          "taxpayer_id_number": "0105562192666",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 22-23 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": " 944 Mitrtown Office Tower, 22nd- 23rd Floor, Rama 4 Road, Wangmai Subdistrict, Pathumwan District, Bangkok 10330",
+          "business_unit": {
+              "id": 3,
+              "name_th": "Industrial",
+              "name_en": "Industrial",
+              "purchasing_organization": "FPT"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:18Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:18Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 45,
+          "company_code": "6021",
+          "name_th": "บริษัท เฟรเซอร์ส พร็อพเพอร์ตี้ เทคโนโลยี (ประเทศไทย) จำกัด",
+          "name_en": "Frasers Property Technology (Thailand) Company Limited",
+          "taxpayer_id_number": "0105561067540",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 22-23 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": " 944 Mitrtown Office Tower, 22nd- 23rd Floor, Rama 4 Road, Wangmai Subdistrict, Pathumwan District, Bangkok 10330",
+          "business_unit": {
+              "id": 3,
+              "name_th": "Industrial",
+              "name_en": "Industrial",
+              "purchasing_organization": "FPT"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:18Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:18Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 44,
+          "company_code": "6019",
+          "name_th": "บริษัท ออโตเมชั่น แอสเซ็ท จำกัด",
+          "name_en": "Automation Asset Co., Ltd.",
+          "taxpayer_id_number": "0105562067438",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 22-23 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": " 944 Mitrtown Office Tower, 22nd- 23rd Floor, Rama 4 Road, Wangmai Subdistrict, Pathumwan District, Bangkok 10330",
+          "business_unit": {
+              "id": 3,
+              "name_th": "Industrial",
+              "name_en": "Industrial",
+              "purchasing_organization": "FPT"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:18Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:18Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 43,
+          "company_code": "6018",
+          "name_th": "บริษัท ซิสเต็ม แอสเซ็ทส์ จำกัด",
+          "name_en": "System Assets Company Limited",
+          "taxpayer_id_number": "0105561042229",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 22-23 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": " 944 Mitrtown Office Tower, 22nd- 23rd Floor, Rama 4 Road, Wangmai Subdistrict, Pathumwan District, Bangkok 10330",
+          "business_unit": {
+              "id": 3,
+              "name_th": "Industrial",
+              "name_en": "Industrial",
+              "purchasing_organization": "FPT"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:18Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:18Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 42,
+          "company_code": "6017",
+          "name_th": "บริษัท อีโค อินดัสเทรียล เซอร์วิสเซส จำกัด",
+          "name_en": "ECO Industrial    Services Company   Limited",
+          "taxpayer_id_number": "0205544003163",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 22-23 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": " 944 Mitrtown Office Tower, 22nd- 23rd Floor, Rama 4 Road, Wangmai Subdistrict, Pathumwan District, Bangkok 10330",
+          "business_unit": {
+              "id": 3,
+              "name_th": "Industrial",
+              "name_en": "Industrial",
+              "purchasing_organization": "FPT"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:18Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:18Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 41,
+          "company_code": "6009",
+          "name_th": "บริษัท วังน้อย โลจิสติกส์ พาร์ค จำกัด",
+          "name_en": "Wangnoi Logistics park Company Limited",
+          "taxpayer_id_number": "0105562073004",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 22-23 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": " 944 Mitrtown Office Tower, 22nd- 23rd Floor, Rama 4 Road, Wangmai Subdistrict, Pathumwan District, Bangkok 10330",
+          "business_unit": {
+              "id": 3,
+              "name_th": "Industrial",
+              "name_en": "Industrial",
+              "purchasing_organization": "FPT"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:18Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:18Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 40,
+          "company_code": "6008",
+          "name_th": "บริษัท บางกอก โลจิสติกส์ พาร์ค จำกัด",
+          "name_en": "Bangkok Logistics ParkCompany Limited",
+          "taxpayer_id_number": "0105562011564",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 22-23 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": "944 Mitrtown Office Tower, 22nd- 23rd Floor, Rama 4 Road, Wangmai Subdistrict, Pathumwan District, Bangkok 10330",
+          "business_unit": {
+              "id": 3,
+              "name_th": "Industrial",
+              "name_en": "Industrial",
+              "purchasing_organization": "FPT"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:18Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:18Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 39,
+          "company_code": "6007",
+          "name_th": "ทรัสต์เพื่อการลงทุนในอสังหา ริมทรัพย์และสิทธิการเช่าอสังหา ริมทรัพย์เพื่ออุตสาหกรรม เฟรเซอร์ส พร็อพเพอร์ตี้",
+          "name_en": "Frasers Property Thailand Industrial Freehold & Leasehold REIT",
+          "taxpayer_id_number": "0994000992408",
+          "address_th": "175 อาคาร สาธรซิตี้ทาวเวอร์ ชั้น 7,21และ26 ถนน สาทรใต้ แขวงทุ่งมหาเมฆ เขตสาทร กรุงเทพมหานคร 10120",
+          "address_en": "175 Sathorn City Tower, 7,21, 26  Floor, South Sathorn Road,Thungmahamek, Sathorn,Bangkok 10120",
+          "business_unit": {
+              "id": 3,
+              "name_th": "Industrial",
+              "name_en": "Industrial",
+              "purchasing_organization": "FPT"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:18Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:18Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 38,
+          "company_code": "6006",
+          "name_th": "บริษัท เฟรเซอร์ส พร็อพเพอร์ตี้ อินดัสเทรียล รีท แมนเนจเม้นท์ (ประเทศไทย) จำกัด",
+          "name_en": "Frasers Property Industrial  REIT Management (Thailand)   Company Limited",
+          "taxpayer_id_number": "0105556080444",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 22-23 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": " 944 Mitrtown Office Tower, 22nd- 23rd Floor, Rama 4 Road, Wangmai Subdistrict, Pathumwan District, Bangkok 10330",
+          "business_unit": {
+              "id": 3,
+              "name_th": "Industrial",
+              "name_en": "Industrial",
+              "purchasing_organization": "FPT"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:18Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:18Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 37,
+          "company_code": "6005",
+          "name_th": "บริษัท เอสทีที จีดีซี (ประเทศไทย) จำกัด",
+          "name_en": "STT GDC (Thailand) Co., Ltd.",
+          "taxpayer_id_number": "0105561042245",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 22-23 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": " 944 Mitrtown Office Tower, 22nd- 23rd Floor, Rama 4 Road, Wangmai Subdistrict, Pathumwan District, Bangkok 10330",
+          "business_unit": {
+              "id": 3,
+              "name_th": "Industrial",
+              "name_en": "Industrial",
+              "purchasing_organization": "FPT"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:18Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:18Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 36,
+          "company_code": "6004",
+          "name_th": "บริษัท บางปะกง โลจิสติกส์ พาร์ค จำกัด",
+          "name_en": "Bangpakong Logistics Park Company Limited",
+          "taxpayer_id_number": "0105561185674",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 22-23 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": " 944 Mitrtown Office Tower, 22nd- 23rd Floor, Rama 4 Road, Wangmai Subdistrict, Pathumwan District, Bangkok 10330",
+          "business_unit": {
+              "id": 3,
+              "name_th": "Industrial",
+              "name_en": "Industrial",
+              "purchasing_organization": "FPT"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:18Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:18Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 35,
+          "company_code": "6003",
+          "name_th": "บริษัท เฟรเซอร์ส พร็อพเพอร์ตี้ บีเอฟทีแซด จำกัด",
+          "name_en": "Frasers Property BFTZ  Company Limited",
+          "taxpayer_id_number": "0105559165769",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 22-23 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": " 944 Mitrtown Office Tower, 22nd- 23rd Floor, Rama 4 Road, Wangmai Subdistrict, Pathumwan District, Bangkok 10330",
+          "business_unit": {
+              "id": 3,
+              "name_th": "Industrial",
+              "name_en": "Industrial",
+              "purchasing_organization": "FPT"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:18Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:18Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 34,
+          "company_code": "6002",
+          "name_th": "บริษัท ทีอาร์เอ แลนด์ ดีเวลลอปเม้นต์ จำกัด",
+          "name_en": "TRA Land Development Company Limited",
+          "taxpayer_id_number": "0105560215979",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 22-23 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": " 944 Mitrtown Office Tower, 22nd- 23rd Floor, Rama 4 Road, Wangmai Subdistrict, Pathumwan District, Bangkok 10330",
+          "business_unit": {
+              "id": 3,
+              "name_th": "Industrial",
+              "name_en": "Industrial",
+              "purchasing_organization": "FPT"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:18Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:18Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 33,
+          "company_code": "6001",
+          "name_th": "บริษัท เฟรเซอร์ส พร็อพเพอร์ตี้  อินดัสเทรียล (ประเทศไทย) จำกัด",
+          "name_en": "Frasers Property Industrial (Thailand) Company Limited",
+          "taxpayer_id_number": "0105548099948",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 22-23 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": " 944 Mitrtown Office Tower, 22nd- 23rd Floor, Rama 4 Road, Wangmai Subdistrict, Pathumwan District, Bangkok 10330",
+          "business_unit": {
+              "id": 3,
+              "name_th": "Industrial",
+              "name_en": "Industrial",
+              "purchasing_organization": "FPT"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 32,
+          "company_code": "6000",
+          "name_th": "บริษัท เฟรเซอร์ส พร็อพเพอร์ตี้ (ประเทศไทย) จำกัด (มหาชน)",
+          "name_en": "Frasers Property (Thailand) Public Company Limited",
+          "taxpayer_id_number": "0107544000051",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 22-23 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": "944 Mitrtown Office Tower, 22nd- 23rd Floor, Rama 4 Road, Wangmai Subdistrict, Pathumwan District, Bangkok 10330",
+          "business_unit": {
+              "id": 3,
+              "name_th": "Industrial",
+              "name_en": "Industrial",
+              "purchasing_organization": "FPT"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 31,
+          "company_code": "4400",
+          "name_th": "บริษัทนวมินทร์ เรสซิเดนซ์ จำกัด  ",
+          "name_en": "Nawamin Residence Co.,Ltd",
+          "taxpayer_id_number": "0105547090211",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+          "business_unit": {
+              "id": 2,
+              "name_th": "Residential",
+              "name_en": "Residential",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 30,
+          "company_code": "4300",
+          "name_th": "บริษัท บ้านแม่พิมพ์ จำกัด",
+          "name_en": "Baan Mae Phim Co.,Ltd.",
+          "taxpayer_id_number": "0105564046098",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+          "business_unit": {
+              "id": 2,
+              "name_th": "Residential",
+              "name_en": "Residential",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 29,
+          "company_code": "4200",
+          "name_th": "บริษัท ไซด์วอล์ค แลนด์ จำกัด",
+          "name_en": "Sidewalk Land Co., Ltd.",
+          "taxpayer_id_number": "0105549000236",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+          "business_unit": {
+              "id": 2,
+              "name_th": "Residential",
+              "name_en": "Residential",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 28,
+          "company_code": "4100",
+          "name_th": "บริษัท รีกัล รีเจี้ยน จำกัด",
+          "name_en": "Regal Region Co., Ltd.",
+          "taxpayer_id_number": "0105554093921",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+          "business_unit": {
+              "id": 2,
+              "name_th": "Residential",
+              "name_en": "Residential",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 27,
+          "company_code": "4000",
+          "name_th": "บริษัท ไพร์ม พลัส แอสเซ็ท จำกัด",
+          "name_en": "Prime Plus Asset Co., Ltd.",
+          "taxpayer_id_number": "0105552114859",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+          "business_unit": {
+              "id": 2,
+              "name_th": "Residential",
+              "name_en": "Residential",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 26,
+          "company_code": "3900",
+          "name_th": "บริษัท เฟิร์ส แสควร์ จำกัด",
+          "name_en": "First Square Co., Ltd.",
+          "taxpayer_id_number": "0105554093930",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+          "business_unit": {
+              "id": 2,
+              "name_th": "Residential",
+              "name_en": "Residential",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 25,
+          "company_code": "3800",
+          "name_th": "บริษัท กรุงเทพบ้านและที่ดิน จำกัด (มหาชน)",
+          "name_en": "Krungthep Land PLC.",
+          "taxpayer_id_number": "0107548000510",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+          "business_unit": {
+              "id": 2,
+              "name_th": "Residential",
+              "name_en": "Residential",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 24,
+          "company_code": "3700",
+          "name_th": "บริษัท วอคเกอร์ โฮมส์ จำกัด",
+          "name_en": "Walker Homes Co.,Ltd.",
+          "taxpayer_id_number": "0105542070476",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+          "business_unit": {
+              "id": 2,
+              "name_th": "Residential",
+              "name_en": "Residential",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 23,
+          "company_code": "3600",
+          "name_th": "บริษัท ยูไนเต็ด โฮมส์ จำกัด",
+          "name_en": "United Homes  Co.,Ltd.",
+          "taxpayer_id_number": "0105542070484",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+          "business_unit": {
+              "id": 2,
+              "name_th": "Residential",
+              "name_en": "Residential",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 22,
+          "company_code": "3500",
+          "name_th": "บริษัท สาธร พร็อพเพอร์ตี้ มาเนจเมนท์ จำกัด",
+          "name_en": "Sathorn Property Management Co.,Ltd.",
+          "taxpayer_id_number": "0105537055561",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+          "business_unit": {
+              "id": 2,
+              "name_th": "Residential",
+              "name_en": "Residential",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 21,
+          "company_code": "3400",
+          "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+          "name_en": "Ritz Village Co.,Ltd.",
+          "taxpayer_id_number": "0105544084130",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+          "business_unit": {
+              "id": 2,
+              "name_th": "Residential",
+              "name_en": "Residential",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 20,
+          "company_code": "3300",
+          "name_th": "บริษัท แกรนด์ พาราไดส์ พร็อพเพอร์ตี้ จำกัด",
+          "name_en": "Grand Paradise Property Co.,Ltd.",
+          "taxpayer_id_number": "0105544101565",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+          "business_unit": {
+              "id": 2,
+              "name_th": "Residential",
+              "name_en": "Residential",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 19,
+          "company_code": "3200",
+          "name_th": "บริษัท เฟรเซอร์ส พร็อพเพอร์ตี้ พาวเวอร์ (ประเทศไทย) จำกัด",
+          "name_en": "Frasers Property Power (Thailand) Co.,Ltd.",
+          "taxpayer_id_number": "0105546066201",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+          "business_unit": {
+              "id": 3,
+              "name_th": "Industrial",
+              "name_en": "Industrial",
+              "purchasing_organization": "FPT"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 18,
+          "company_code": "3100",
+          "name_th": "บริษัท บ้านฉางเอสเตท จำกัด /ปัจจุบันคือ บริษัททรายเพชร เอสเตท จำกัด ",
+          "name_en": "Baan Chang Estate  Co.,Ltd.",
+          "taxpayer_id_number": "0215531000381",
+          "address_th": "130/206 หมู่ที่ 5 ตำบลบ้านฉาง อ.บ้านฉาง จังหวัดระยอง 21130",
+          "address_en": "130/206 Moo.5,Tambon Baanchang, Baanchang, Rayong 21130",
+          "business_unit": {
+              "id": 2,
+              "name_th": "Residential",
+              "name_en": "Residential",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 17,
+          "company_code": "3000",
+          "name_th": "บริษัท เฟรเซอร์ส พร็อพเพอร์ตี้ โฮม (ประเทศไทย) จำกัด",
+          "name_en": "Frasers Property Home (Thailand) Co.,Ltd.",
+          "taxpayer_id_number": "0105556061881",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+          "business_unit": {
+              "id": 2,
+              "name_th": "Residential",
+              "name_en": "Residential",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 16,
+          "company_code": "2500",
+          "name_th": "บริษัท สีลม คอร์ปอเรชั่น จำกัด",
+          "name_en": "Silom Corporation Ltd.",
+          "taxpayer_id_number": "0105557063632",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+          "business_unit": {
+              "id": 1,
+              "name_th": "Commercial",
+              "name_en": "Commercial",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 15,
+          "company_code": "2400",
+          "name_th": "บริษัท เฟรเซอร์ส พร็อพเพอร์ตี้ คอมเมอร์เชียล แอสเสท แมนเนจเม้นท์ (ประเทศไทย) จำกัด",
+          "name_en": "Frasers Property Commercial Asset Management (Thailand) Co., Ltd",
+          "taxpayer_id_number": "0105558004214",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 22 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": "22nd Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+          "business_unit": {
+              "id": 1,
+              "name_th": "Commercial",
+              "name_en": "Commercial",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 14,
+          "company_code": "2300",
+          "name_th": "บริษัท อาคเนย์ประกันชีวิต จำกัด (มหาชน)",
+          "name_en": "Southeast Life Insurance PLC.",
+          "taxpayer_id_number": "0107555000384",
+          "address_th": "315  อาคารไทยกรุ๊ป ชั้นที่ 8-12 ถนนสีลม แขวงสีลม เขตบางรัก กรุงเทพมหานคร 10500",
+          "address_en": "315 Thai Group Building, 8-12th Floor, Silom Road, Silom, Bangrak Bangkok 10500",
+          "business_unit": {
+              "id": 1,
+              "name_th": "Commercial",
+              "name_en": "Commercial",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 13,
+          "company_code": "2200",
+          "name_th": "บริษัท ภักดี ฮอสพิทาลิตี้ จำกัด",
+          "name_en": "Bhakdi Hospitality Co.,Ltd.",
+          "taxpayer_id_number": "0105562048824",
+          "address_th": "948 โรงแรมทริปเปิ้ลวาย ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": "948 Triple Y Hotel Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+          "business_unit": {
+              "id": 1,
+              "name_th": "Commercial",
+              "name_en": "Commercial",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 12,
+          "company_code": "2100",
+          "name_th": "บริษัท ภักดี รีเทล จำกัด",
+          "name_en": "Bhakdi Retail Co.,Ltd.",
+          "taxpayer_id_number": "0105562048760",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+          "business_unit": {
+              "id": 1,
+              "name_th": "Commercial",
+              "name_en": "Commercial",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 11,
+          "company_code": "2000",
+          "name_th": "บริษัท เกษมทรัพย์ภักดี จำกัด",
+          "name_en": "Kasemsubbhakdi Co.,Ltd.",
+          "taxpayer_id_number": "0105559015473",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+          "business_unit": {
+              "id": 1,
+              "name_th": "Commercial",
+              "name_en": "Commercial",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 10,
+          "company_code": "1900",
+          "name_th": "ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์โกลเด้นเวนเจอร์",
+          "name_en": "Golden Ventures Leasehold Real Estate Investment Trust",
+          "taxpayer_id_number": "0994001093113",
+          "address_th": "อาคาร ธนาคารกสิกรไทย ชั้นที่ 6 และ 12 เลขที่ 400/22 ถนนพหลโยธิน แขวงสามเสนใน เขตพญาไท กรุงเทพฯ 10400",
+          "address_en": "KASIKORNBANK Building, 6th and 12th Floor, 400/22 Phahon Yothin Road, Samsen Nai Sub-District,Phaya Thai District, Bangkok 10400",
+          "business_unit": {
+              "id": 1,
+              "name_th": "Commercial",
+              "name_en": "Commercial",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 9,
+          "company_code": "1800",
+          "name_th": "บริษัท สาธรทรัพย์สิน จำกัด",
+          "name_en": "Sathorn Supsin Co.,Ltd.",
+          "taxpayer_id_number": "0105537069481",
+          "address_th": "7 ถนนสาทรใต้ แขวงยานนาวา เขตสาทร กรุงเทพฯ 10120",
+          "address_en": "7 South Sathorn Rd.,Yannawa,Sathorn,Bangkok 10120",
+          "business_unit": {
+              "id": 1,
+              "name_th": "Commercial",
+              "name_en": "Commercial",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 8,
+          "company_code": "1700",
+          "name_th": "บริษัท นอร์ท สาธร เรียลตี้ จำกัด",
+          "name_en": "North Sathorn Realty Co.,Ltd.",
+          "taxpayer_id_number": "0105539018841",
+          "address_th": "98 อาคารสาทร สแควร์ ออฟฟิศ ทาวเวอร์ ชั้น B1 ถนน สาทรเหนือ แขวงสีลม เขตบางรัก กรุงเทพฯ 10500",
+          "address_en": "B1 floor, Sathorn Square Office Tower, 98 North Sathorn Silom,Bangrak,Bangkok 10500",
+          "business_unit": {
+              "id": 1,
+              "name_th": "Commercial",
+              "name_en": "Commercial",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 7,
+          "company_code": "1600",
+          "name_th": "บริษัท นารายณ์ พาวิลเลียน จำกัด",
+          "name_en": "Narayana Pavilion Co.,Ltd.",
+          "taxpayer_id_number": "0105531029267",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+          "business_unit": {
+              "id": 1,
+              "name_th": "Commercial",
+              "name_en": "Commercial",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 6,
+          "company_code": "1500",
+          "name_th": "บริษัท เอ็มเอสจีแอล พร็อพเพอร์ตี้ จำกัด",
+          "name_en": "MSGL Property Co.,Ltd.",
+          "taxpayer_id_number": "0105545074871",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+          "business_unit": {
+              "id": 1,
+              "name_th": "Commercial",
+              "name_en": "Commercial",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 5,
+          "company_code": "1400",
+          "name_th": "บริษัท แกรนด์ เมย์แฟร์ จำกัด",
+          "name_en": "Grand Mayfair Co.,Ltd.",
+          "taxpayer_id_number": "0105550014601",
+          "address_th": "60 ซอยหลังสวน แขวงลุมพินี เขตปทุมวัน กรุงเทพฯ 10330",
+          "address_en": "60 Soi Langsuan,Lumpini,Pathumwan,Bangkok 10330",
+          "business_unit": {
+              "id": 1,
+              "name_th": "Commercial",
+              "name_en": "Commercial",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 4,
+          "company_code": "1300",
+          "name_th": "บริษัท สามย่านมิตรทาวน์ โฮลดิ้ง จำกัด",
+          "name_en": "Samyan Mitrtown Holding Co.,Ltd.",
+          "taxpayer_id_number": "0105546153635",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+          "business_unit": {
+              "id": 1,
+              "name_th": "Commercial",
+              "name_en": "Commercial",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 3,
+          "company_code": "1200",
+          "name_th": "บริษัท โกลเด้น แลนด์ โปโล จำกัด",
+          "name_en": "Golden Land Polo Ltd.",
+          "taxpayer_id_number": "0105545007422",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+          "business_unit": {
+              "id": 1,
+              "name_th": "Commercial",
+              "name_en": "Commercial",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-11-12T12:48:17Z",
+          "created_user_id": 1,
+          "updated_at": "2023-11-12T12:48:17Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 2,
+          "company_code": "1100",
+          "name_th": "บริษัท โกลเด้น แลนด์ (เมย์แฟร์) จำกัด",
+          "name_en": "Golden Land (Mayfair)  Co.,Ltd.",
+          "taxpayer_id_number": "0105544119359",
+          "address_th": "60 อาคารเมย์แฟร์แมริออทเอ็คเซ็คคิวทิฟอพาร์ทเม้นท์ ซอยหลังสวน แขวงลุมพินี เขตปทุมวัน กรุงเทพฯ 10330",
+          "address_en": "Mayfair Marriot Executive Apartment Building,60 Soi Langsuan,Lumpini,Pathumwan,Bangkok 10330",
+          "business_unit": {
+              "id": 1,
+              "name_th": "Commercial",
+              "name_en": "Commercial",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-09-25T16:48:40Z",
+          "created_user_id": 1,
+          "updated_at": "2023-09-25T16:48:40Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 1,
+          "company_code": "1000",
+          "name_th": "บริษัท แผ่นดินทอง พร็อพเพอร์ตี้ ดีเวลลอปเม้นท์ จำกัด (มหาชน)",
+          "name_en": "Golden Land Property Development PLC.",
+          "taxpayer_id_number": "0107537002273",
+          "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+          "address_en": "20th Floor, Mitrtown Office Tower 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+          "business_unit": {
+              "id": 1,
+              "name_th": "Commercial",
+              "name_en": "Commercial",
+              "purchasing_organization": "GL00"
+          },
+          "is_active": true,
+          "created_at": "2023-09-25T16:45:06Z",
+          "created_user_id": 1,
+          "updated_at": "2023-09-25T16:45:06Z",
+          "updated_user_id": 1
+      }
+  ]
+}

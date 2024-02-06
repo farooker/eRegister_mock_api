@@ -1,0 +1,10 @@
+{
+    "is_success": true,
+    "code": "200",
+    "message": "Ok",
+    "data": {
+        "id": 1,
+        "name_th": "เฟรเซอร์ส พร็อพเพอร์ตี้ (ประเทศไทย)",
+        "name_en": "Frasers Property Thailand"
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "is_success": true,
+  "code": 200,
+  "message": "Ok",
+  "data": [
+    {
+      "id": 1,
+      "name": "Employee"
+    },
+    {
+      "id": 2,
+      "name": "Business Partner"
+    }
+  ]
+}

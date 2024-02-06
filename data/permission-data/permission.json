@@ -1,0 +1,46 @@
+{
+    "is_success": true,
+    "code": "200",
+    "message": "Ok",
+    "data": [{
+        "role_id": 1,
+        "module": [
+            {
+                "id": 1,
+                "name_th": "รายการคู่ค้า",
+                "name_en": "Business partner list",
+                "description": "",
+                "action": [
+                    {
+                        "id": 1,
+                        "name": "view",
+                        "description": ""
+                    },
+                    {
+                        "id": 3,
+                        "name": "update",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name_th": "ฟอร์มสมัครคู่ค้า",
+                "name_en": "Register form",
+                "description": "",
+                "action": [
+                    {
+                        "id": 1,
+                        "name": "view",
+                        "description": ""
+                    },
+                    {
+                        "id": 3,
+                        "name": "update",
+                        "description": ""
+                    }
+                ]
+            }
+        ]
+    }]
+}

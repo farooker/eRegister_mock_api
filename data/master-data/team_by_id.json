@@ -1,0 +1,35 @@
+{
+    "is_success": true,
+    "code": "200",
+    "message": "Ok",
+    "data": {
+        "id": 17,
+        "company": {
+            "id": 21,
+            "company_code": "3400",
+            "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+            "name_en": "Ritz Village Co.,Ltd.",
+            "taxpayer_id_number": "0105544084130",
+            "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+            "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+            "business_unit": {
+                "id": 2,
+                "name_th": "Residential",
+                "name_en": "Residential",
+                "purchasing_organization": "GL00",
+                "corporation": {
+                    "id": 1,
+                    "name_th": "เฟรเซอร์ส พร็อพเพอร์ตี้ (ประเทศไทย)",
+                    "name_en": "Frasers Property Thailand"
+                }
+            }
+        },
+        "name_th": "test5",
+        "name_en": "test5",
+        "is_active": "active",
+        "created_at": "2024-01-09T06:17:02.753Z",
+        "created_user_id": 1,
+        "updated_at": "2024-01-09T06:17:02.753Z",
+        "updated_user_id": 1
+    }
+}

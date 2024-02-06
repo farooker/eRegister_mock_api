@@ -1,0 +1,11 @@
+{
+    "is_success": true,
+    "code": "200",
+    "message": "Ok",
+    "data": {
+        "id": 6,
+        "name": "Business Partner",
+        "description": "[Description] Business Partner",
+        "is_active": true
+    }
+}

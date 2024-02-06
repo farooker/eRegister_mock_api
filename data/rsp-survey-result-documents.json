@@ -1,0 +1,26 @@
+{
+    "is_success": true,
+    "code": 200,
+    "message": "Ok",
+    "data": {
+      "file": [
+        {
+          "url": "http://localhost:4000/dowload/test-xlsx",
+          "name":"exported_file_xlsx",
+          "size": 10.5,
+          "type": "XLSX",
+          "uploaded_email": "uploader@example.com",
+          "uploaded_at": "2023-11-15T12:30:00"
+        },
+        {
+          "url": "http://localhost:4000/dowload/test-pdf",
+          "name":"exported_file_pdf",
+          "size": 3.5,
+          "type": "PDF",
+          "uploaded_email": "uploader@example.com",
+          "uploaded_at": "2023-11-15T12:30:00"
+        }
+      ]
+    }
+}
+  

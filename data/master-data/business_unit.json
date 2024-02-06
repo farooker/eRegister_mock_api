@@ -1,0 +1,31 @@
+{
+    "is_success": true,
+    "code": "200",
+    "message": "Ok",
+    "data": [
+        {
+            "id": 4,
+            "name_th": "FPHT & Others",
+            "name_en": "FPHT & Others",
+            "purchasing_organization": "FPHT"
+        },
+        {
+            "id": 3,
+            "name_th": "Industrial",
+            "name_en": "Industrial",
+            "purchasing_organization": "FPT"
+        },
+        {
+            "id": 2,
+            "name_th": "Residential",
+            "name_en": "Residential",
+            "purchasing_organization": "GL00"
+        },
+        {
+            "id": 1,
+            "name_th": "Commercial",
+            "name_en": "Commercial",
+            "purchasing_organization": "GL00"
+        }
+    ]
+}

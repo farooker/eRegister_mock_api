@@ -1,0 +1,11 @@
+{
+    "is_success": true,
+    "code": "200",
+    "message": "Ok",
+    "data": {
+        "id": 1,
+        "name_th": "Commercial",
+        "name_en": "Commercial",
+        "purchasing_organization": "GL00"
+    }
+}

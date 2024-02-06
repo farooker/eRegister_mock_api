@@ -1,0 +1,38 @@
+{
+    "is_success": true,
+    "code": 200,
+    "message": "Ok",
+    "data": {
+      "bp_number": "BP12345",
+      "status": {
+        "id": 1,
+        "name": "Completed"
+      },
+      "progress_percentage": 100,
+      "survey_result": {
+        "is_aligned": 1,
+        "score": 85,
+        "total_score": 100,
+        "section": [
+          {
+            "name": "Section A",
+            "score": 20,
+            "total_score": 25,
+            "score_percentage": 80
+          },
+          {
+            "name": "Section B",
+            "score": 25,
+            "total_score": 30,
+            "score_percentage": 83.33
+          },
+          {
+            "name": "Section C",
+            "score": 15,
+            "total_score": 20,
+            "score_percentage": 75
+          }
+        ]
+      }
+    }
+}  

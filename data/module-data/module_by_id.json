@@ -1,0 +1,23 @@
+{
+    "is_success": true,
+    "code": "200",
+    "message": "Ok",
+    "data": {
+        "id": 1,
+        "name_th": "รายการคู่ค้า",
+        "name_en": "Business partner list",
+        "description": "",
+        "action": [
+            {
+                "id": 1,
+                "name": "view",
+                "description": ""
+            },
+            {
+                "id": 3,
+                "name": "update",
+                "description": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,1341 @@
+{
+  "is_success": true,
+  "code": "200",
+  "message": "Ok",
+  "data": [
+      {
+          "id": 95,
+          "email": "huokatii.J@gmail.com",
+          "firstname": "HuokatiiJ",
+          "lastname": "Gmaol",
+          "is_register": true,
+          "is_active": true,
+          "member_type": {
+              "id": 1,
+              "name": "Employee"
+          },
+          "team": {
+              "id": 15,
+              "name_th": "test7",
+              "name_en": "test7",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 1,
+              "name": "Super Admin",
+              "description": ""
+          },
+          "created_at": "2024-01-24T06:24:48.535Z",
+          "created_user_id": 95,
+          "updated_at": "2024-01-24T06:24:48.535Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 94,
+          "email": "huokatiii@gmail.com",
+          "firstname": "HuokatiiG.",
+          "lastname": "Mail.com",
+          "is_register": false,
+          "is_active": true,
+          "member_type": {
+              "id": 1,
+              "name": "Employee"
+          },
+          "team": {
+              "id": 15,
+              "name_th": "test7",
+              "name_en": "test7",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 1,
+              "name": "Super Admin",
+              "description": ""
+          },
+          "created_at": "2024-01-24T04:04:15.82Z",
+          "created_user_id": 94,
+          "updated_at": "2024-01-24T04:04:15.82Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 93,
+          "email": "test100221211@fakduai.com",
+          "firstname": "test5",
+          "lastname": "dev5",
+          "is_register": false,
+          "is_active": true,
+          "member_type": {
+              "id": 1,
+              "name": "Employee"
+          },
+          "team": {
+              "id": 15,
+              "name_th": "test7",
+              "name_en": "test7",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 1,
+              "name": "Super Admin",
+              "description": ""
+          },
+          "created_at": "2024-01-23T23:01:03.263Z",
+          "created_user_id": 93,
+          "updated_at": "2024-01-23T23:01:03.263Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 92,
+          "email": "test10021211@fakduai.com",
+          "firstname": "test5",
+          "lastname": "dev5",
+          "is_register": false,
+          "is_active": true,
+          "member_type": {
+              "id": 1,
+              "name": "Employee"
+          },
+          "team": {
+              "id": 15,
+              "name_th": "test7",
+              "name_en": "test7",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 1,
+              "name": "Super Admin",
+              "description": ""
+          },
+          "created_at": "2024-01-23T22:50:58.104Z",
+          "created_user_id": 92,
+          "updated_at": "2024-01-23T22:50:58.104Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 91,
+          "email": "test1002111@fakduai.com",
+          "firstname": "test5",
+          "lastname": "dev5",
+          "is_register": false,
+          "is_active": true,
+          "member_type": {
+              "id": 1,
+              "name": "Employee"
+          },
+          "team": {
+              "id": 15,
+              "name_th": "test7",
+              "name_en": "test7",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 1,
+              "name": "Super Admin",
+              "description": ""
+          },
+          "created_at": "2024-01-23T22:45:52.846Z",
+          "created_user_id": 91,
+          "updated_at": "2024-01-23T22:45:52.846Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 90,
+          "email": "test1@fakduai.com",
+          "firstname": "Test16012024",
+          "lastname": "dev3",
+          "is_register": true,
+          "is_active": true,
+          "member_type": {
+              "id": 1,
+              "name": "Employee"
+          },
+          "team": {
+              "id": 17,
+              "name_th": "test5",
+              "name_en": "test5",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 2,
+              "name": "Admin",
+              "description": ""
+          },
+          "created_at": "2024-01-09T06:18:29.955Z",
+          "created_user_id": 90,
+          "updated_at": "2024-01-16T14:39:12.356Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 89,
+          "email": "test9005@fakduai.com",
+          "firstname": "test2",
+          "lastname": "dev2",
+          "is_register": false,
+          "is_active": true,
+          "member_type": {
+              "id": 1,
+              "name": "Employee"
+          },
+          "team": {
+              "id": 15,
+              "name_th": "test7",
+              "name_en": "test7",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 2,
+              "name": "Admin",
+              "description": ""
+          },
+          "created_at": "2024-01-09T06:18:29.93Z",
+          "created_user_id": 89,
+          "updated_at": "2024-01-09T06:18:29.93Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 88,
+          "email": "test9004@fakduai.com",
+          "firstname": "test5",
+          "lastname": "dev5",
+          "is_register": false,
+          "is_active": true,
+          "member_type": {
+              "id": 1,
+              "name": "Employee"
+          },
+          "team": {
+              "id": 14,
+              "name_th": "test6",
+              "name_en": "test6",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 2,
+              "name": "Admin",
+              "description": ""
+          },
+          "created_at": "2024-01-09T06:18:29.903Z",
+          "created_user_id": 88,
+          "updated_at": "2024-01-09T06:18:29.903Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 87,
+          "email": "test9003@fakduai.com",
+          "firstname": "test3",
+          "lastname": "dev3",
+          "is_register": false,
+          "is_active": false,
+          "member_type": {
+              "id": 1,
+              "name": "Employee"
+          },
+          "team": {
+              "id": 16,
+              "name_th": "test511",
+              "name_en": "dev511",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 2,
+              "name": "Admin",
+              "description": ""
+          },
+          "created_at": "2024-01-05T02:36:09.282Z",
+          "created_user_id": 87,
+          "updated_at": "2024-01-06T16:34:25.82Z",
+          "updated_user_id": 16
+      },
+      {
+          "id": 86,
+          "email": "test9002@fakduai.com",
+          "firstname": "test2",
+          "lastname": "dev2",
+          "is_register": false,
+          "is_active": false,
+          "member_type": {
+              "id": 1,
+              "name": "Employee"
+          },
+          "team": {
+              "id": 15,
+              "name_th": "test7",
+              "name_en": "test7",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 2,
+              "name": "Admin",
+              "description": ""
+          },
+          "created_at": "2024-01-05T02:36:09.174Z",
+          "created_user_id": 86,
+          "updated_at": "2024-01-06T16:34:25.746Z",
+          "updated_user_id": 16
+      },
+      {
+          "id": 85,
+          "email": "test9001@fakduai.com",
+          "firstname": "test5",
+          "lastname": "dev5",
+          "is_register": false,
+          "is_active": false,
+          "member_type": {
+              "id": 1,
+              "name": "Employee"
+          },
+          "team": {
+              "id": 14,
+              "name_th": "test6",
+              "name_en": "test6",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 2,
+              "name": "Admin",
+              "description": ""
+          },
+          "created_at": "2024-01-05T02:36:09.063Z",
+          "created_user_id": 85,
+          "updated_at": "2024-01-06T16:34:25.677Z",
+          "updated_user_id": 16
+      },
+      {
+          "id": 84,
+          "email": "test2@email.com",
+          "firstname": "",
+          "lastname": "",
+          "is_register": true,
+          "is_active": true,
+          "member_type": {
+              "id": 2,
+              "name": "Business Partner"
+          },
+          "team": {
+              "id": 14,
+              "name_th": "test6",
+              "name_en": "test6",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 5,
+              "name": "Business Partner Admin",
+              "description": ""
+          },
+          "created_at": "2024-01-03T22:40:03.345Z",
+          "created_user_id": 84,
+          "updated_at": "2024-01-03T22:54:16.804Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 82,
+          "email": "loogmoo2@test.com",
+          "firstname": "loog2",
+          "lastname": "moo2",
+          "is_register": false,
+          "is_active": true,
+          "member_type": {
+              "id": 1,
+              "name": "Employee"
+          },
+          "team": {
+              "id": 14,
+              "name_th": "test6",
+              "name_en": "test6",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 1,
+              "name": "Super Admin",
+              "description": ""
+          },
+          "created_at": "2024-01-03T08:45:38.674Z",
+          "created_user_id": 82,
+          "updated_at": "2024-01-03T08:45:38.674Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 27,
+          "email": "huokatii@gmail.com",
+          "firstname": "SusuTest",
+          "lastname": "Susuna1",
+          "is_register": true,
+          "is_active": false,
+          "member_type": {
+              "id": 1,
+              "name": "Employee"
+          },
+          "team": {
+              "id": 14,
+              "name_th": "test6",
+              "name_en": "test6",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 1,
+              "name": "Super Admin",
+              "description": ""
+          },
+          "created_at": "2023-12-21T09:29:04.23Z",
+          "created_user_id": 27,
+          "updated_at": "2023-12-24T03:33:20.479Z",
+          "updated_user_id": 16
+      },
+      {
+          "id": 26,
+          "email": "test1006@fakduai.com",
+          "firstname": "test6",
+          "lastname": "dev6",
+          "is_register": false,
+          "is_active": true,
+          "member_type": {
+              "id": 2,
+              "name": "Business Partner"
+          },
+          "team": {
+              "id": 14,
+              "name_th": "test6",
+              "name_en": "test6",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 1,
+              "name": "Super Admin",
+              "description": ""
+          },
+          "created_at": "2023-12-20T04:29:04.309Z",
+          "created_user_id": 26,
+          "updated_at": "2023-12-20T04:29:04.309Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 25,
+          "email": "test1005@fakduai.com",
+          "firstname": "test55",
+          "lastname": "dev55",
+          "is_register": false,
+          "is_active": true,
+          "member_type": {
+              "id": 2,
+              "name": "Business Partner"
+          },
+          "team": {
+              "id": 14,
+              "name_th": "test6",
+              "name_en": "test6",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 2,
+              "name": "Admin",
+              "description": ""
+          },
+          "created_at": "2023-12-20T04:29:04.14Z",
+          "created_user_id": 25,
+          "updated_at": "2023-12-20T04:29:04.14Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 24,
+          "email": "test1004@fakduai.com",
+          "firstname": "test4",
+          "lastname": "dev4",
+          "is_register": false,
+          "is_active": true,
+          "member_type": {
+              "id": 1,
+              "name": "Employee"
+          },
+          "team": {
+              "id": 14,
+              "name_th": "test6",
+              "name_en": "test6",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 1,
+              "name": "Super Admin",
+              "description": ""
+          },
+          "created_at": "2023-12-20T04:29:03.968Z",
+          "created_user_id": 24,
+          "updated_at": "2023-12-20T04:29:03.968Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 23,
+          "email": "test@fakduai.com",
+          "firstname": "Attaphol",
+          "lastname": "Jampun",
+          "is_register": false,
+          "is_active": false,
+          "member_type": {
+              "id": 1,
+              "name": "Employee"
+          },
+          "team": {
+              "id": 14,
+              "name_th": "test6",
+              "name_en": "test6",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 1,
+              "name": "Super Admin",
+              "description": ""
+          },
+          "created_at": "2023-12-20T04:20:47.799Z",
+          "created_user_id": 23,
+          "updated_at": "2023-12-20T04:34:55.425Z",
+          "updated_user_id": 16
+      },
+      {
+          "id": 22,
+          "email": "test100322@fakduai.com",
+          "firstname": "test3",
+          "lastname": "dev3",
+          "is_register": false,
+          "is_active": true,
+          "member_type": {
+              "id": 1,
+              "name": "Employee"
+          },
+          "team": {
+              "id": 14,
+              "name_th": "test6",
+              "name_en": "test6",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 2,
+              "name": "Admin",
+              "description": ""
+          },
+          "created_at": "2023-12-20T02:21:31.2Z",
+          "created_user_id": 22,
+          "updated_at": "2023-12-20T02:21:31.2Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 21,
+          "email": "test100222@fakduai.com",
+          "firstname": "test2",
+          "lastname": "dev2",
+          "is_register": false,
+          "is_active": true,
+          "member_type": {
+              "id": 1,
+              "name": "Employee"
+          },
+          "team": {
+              "id": 14,
+              "name_th": "test6",
+              "name_en": "test6",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 1,
+              "name": "Super Admin",
+              "description": ""
+          },
+          "created_at": "2023-12-20T02:21:31.13Z",
+          "created_user_id": 21,
+          "updated_at": "2023-12-20T02:21:31.13Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 20,
+          "email": "test100122@fakduai.com",
+          "firstname": "test5",
+          "lastname": "dev5",
+          "is_register": false,
+          "is_active": true,
+          "member_type": {
+              "id": 1,
+              "name": "Employee"
+          },
+          "team": {
+              "id": 14,
+              "name_th": "test6",
+              "name_en": "test6",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 1,
+              "name": "Super Admin",
+              "description": ""
+          },
+          "created_at": "2023-12-20T02:21:31.073Z",
+          "created_user_id": 20,
+          "updated_at": "2023-12-20T02:21:31.073Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 19,
+          "email": "test1@fakduai.com",
+          "firstname": "test_24012024",
+          "lastname": "dev5",
+          "is_register": true,
+          "is_active": true,
+          "member_type": {
+              "id": 1,
+              "name": "Employee"
+          },
+          "team": {
+              "id": 15,
+              "name_th": "test7",
+              "name_en": "test7",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 1,
+              "name": "Super Admin",
+              "description": ""
+          },
+          "created_at": "2023-12-20T02:19:31.081Z",
+          "created_user_id": 19,
+          "updated_at": "2024-01-24T06:13:55.604Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 18,
+          "email": "loogmoo@test.com",
+          "firstname": "loog",
+          "lastname": "moo",
+          "is_register": false,
+          "is_active": true,
+          "member_type": {
+              "id": 1,
+              "name": "Employee"
+          },
+          "team": {
+              "id": 14,
+              "name_th": "test6",
+              "name_en": "test6",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 1,
+              "name": "Super Admin",
+              "description": ""
+          },
+          "created_at": "2023-12-19T07:32:45.054Z",
+          "created_user_id": 18,
+          "updated_at": "2023-12-19T07:32:45.054Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 17,
+          "email": "test1002@1fakduai.com",
+          "firstname": "",
+          "lastname": "dev5",
+          "is_register": false,
+          "is_active": true,
+          "member_type": {
+              "id": 1,
+              "name": "Employee"
+          },
+          "team": {
+              "id": 14,
+              "name_th": "test6",
+              "name_en": "test6",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 1,
+              "name": "Super Admin",
+              "description": ""
+          },
+          "created_at": "2023-12-16T10:42:00.432Z",
+          "created_user_id": 17,
+          "updated_at": "2023-12-16T10:42:00.432Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 16,
+          "email": "test1003@fakduai.com",
+          "firstname": "test3",
+          "lastname": "dev3",
+          "is_register": false,
+          "is_active": false,
+          "member_type": {
+              "id": 2,
+              "name": "Business Partner"
+          },
+          "team": {
+              "id": 14,
+              "name_th": "test6",
+              "name_en": "test6",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 1,
+              "name": "Super Admin",
+              "description": ""
+          },
+          "created_at": "2023-12-08T00:49:56.258Z",
+          "created_user_id": 16,
+          "updated_at": "2024-01-16T14:48:56.428Z",
+          "updated_user_id": 16
+      },
+      {
+          "id": 15,
+          "email": "test1002@fakduai.com",
+          "firstname": "test2",
+          "lastname": "dev2",
+          "is_register": false,
+          "is_active": false,
+          "member_type": {
+              "id": 2,
+              "name": "Business Partner"
+          },
+          "team": {
+              "id": 14,
+              "name_th": "test6",
+              "name_en": "test6",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 1,
+              "name": "Super Admin",
+              "description": ""
+          },
+          "created_at": "2023-12-08T00:49:56.189Z",
+          "created_user_id": 15,
+          "updated_at": "2024-01-16T14:48:56.141Z",
+          "updated_user_id": 16
+      },
+      {
+          "id": 14,
+          "email": "test1001@fakduai.com",
+          "firstname": "test5",
+          "lastname": "dev5",
+          "is_register": false,
+          "is_active": false,
+          "member_type": {
+              "id": 1,
+              "name": "Employee"
+          },
+          "team": {
+              "id": 14,
+              "name_th": "test6",
+              "name_en": "test6",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 1,
+              "name": "Super Admin",
+              "description": ""
+          },
+          "created_at": "2023-12-08T00:49:56.125Z",
+          "created_user_id": 14,
+          "updated_at": "2024-01-16T14:48:55.853Z",
+          "updated_user_id": 16
+      },
+      {
+          "id": 10,
+          "email": "test1@fakduai.com",
+          "firstname": "test",
+          "lastname": "1",
+          "is_register": true,
+          "is_active": true,
+          "member_type": {
+              "id": 1,
+              "name": "Employee"
+          },
+          "team": {
+              "id": 15,
+              "name_th": "test7",
+              "name_en": "test7",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 1,
+              "name": "Super Admin",
+              "description": ""
+          },
+          "created_at": "2023-12-08T00:13:58.897Z",
+          "created_user_id": 10,
+          "updated_at": "2024-01-24T23:45:03.134Z",
+          "updated_user_id": 1
+      },
+      {
+          "id": 1,
+          "email": "test1@fakduai.com",
+          "firstname": "test",
+          "lastname": "dev",
+          "is_register": true,
+          "is_active": true,
+          "member_type": {
+              "id": 1,
+              "name": "Employee"
+          },
+          "team": {
+              "id": 15,
+              "name_th": "test7",
+              "name_en": "test7",
+              "is_active": true,
+              "company": {
+                  "id": 21,
+                  "company_code": "3400",
+                  "name_th": "บริษัท ริทซ์ วิลเลจ จำกัด",
+                  "name_en": "Ritz Village Co.,Ltd.",
+                  "taxpayer_id_number": "0105544084130",
+                  "address_th": "944 มิตรทาวน์ ออฟฟิศ ทาวเวอร์ ชั้นที่ 20 ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+                  "address_en": "20th Floor, Mitrtown Office Tower, 944 Rama 4 Road, Wangmai, Pathumwan, Bangkok 10330",
+                  "business_unit": {
+                      "id": 2,
+                      "name_th": "Residential",
+                      "name_en": "Residential",
+                      "purchasing_organization": "GL00"
+                  },
+                  "created_at": "2023-11-12T12:48:17Z",
+                  "created_user_id": 1,
+                  "updated_at": "2023-11-12T12:48:17Z",
+                  "updated_user_id": 1
+              }
+          },
+          "role": {
+              "id": 1,
+              "name": "Super Admin",
+              "description": ""
+          },
+          "created_at": "2023-09-25T12:27:21Z",
+          "created_user_id": 1,
+          "updated_at": "2024-01-25T16:36:43.676Z",
+          "updated_user_id": 1
+      }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "is_success": true,
+  "code": "200",
+  "message": "Ok",
+  "data": [
+    {
+      "bp_number": "BP123456",
+      "name_th": "บริษัท อยู่ดี จำกัด",
+      "name_en": "Good Living Company Limited",
+      "contact_owner_user": {
+        "id": 1,
+        "email": "contact.owner@example.com",
+        "firstname": "John",
+        "lastname": "Doe",
+        "is_register": 1,
+        "is_active": 1,
+        "member_type": {
+          "id": 1,
+          "name": "employee"
+        },
+        "team": {
+          "id": 1,
+          "name_th": "ทีมตรวจสอบ",
+          "name_en": "Audit Team"
+        },
+        "role": {
+          "id": 1,
+          "name": "Admin",
+          "description": "Admin",
+          "is_active": 1
+        },
+        "created_at": "2023-11-10T14:20:12",
+        "created_user_id": 1,
+        "updated_at": "2023-11-11T09:30:45",
+        "updated_user_id": 1
+      },
+      "created_at": "2023-11-10T14:20:12",
+      "created_user_email": "created.user@example.com",
+      "company_information": {
+        "business_partner_number": "BP123456",
+        "is_fpt_affiliate": 1,
+        "account_business_partner_type": "VIP",
+        "business_register_type": "Limited",
+        "company_category": "Tech",
+        "vendor_number": "VN789012",
+        "company_code_of_vendor": "1000,1200,1300",
+        "customer_number": "CU123456",
+        "company_code_of_customer": "1000,2000,3000,"
+      },
+      "do_rsp_activity": 1,
+      "branch": [
+        {
+          "branch_code": "00001",
+          "branch_description": "Main Office",
+          "business_partner_role": "Head Office",
+          "company_code": "1000,2000",
+          "branch_address": "123 Main Street, Cityville",
+          "contact_person": [
+            {
+              "name": "Jane Doe",
+              "mobile": "123-456-7890",
+              "email": "jane.doe@example.com"
+            }
+          ]
+        },
+        {
+          "branch_code": "00002",
+          "branch_description": "Branch A",
+          "business_partner_role": "Branch",
+          "company_code": "3000,4000",
+          "branch_address": "456 Branch Street, Cityville",
+          "contact_person": [
+            {
+              "name": "Bob Smith",
+              "mobile": "987-654-3210",
+              "email": null
+            },
+            {
+              "name": null,
+              "mobile": null,
+              "email": "bob.smith@example.com"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

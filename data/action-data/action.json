@@ -1,0 +1,27 @@
+{
+    "is_success": true,
+    "code": "200",
+    "message": "Ok",
+    "data": [
+        {
+            "id": 4,
+            "name": "delete",
+            "description": ""
+        },
+        {
+            "id": 3,
+            "name": "update",
+            "description": ""
+        },
+        {
+            "id": 2,
+            "name": "create",
+            "description": ""
+        },
+        {
+            "id": 1,
+            "name": "view",
+            "description": ""
+        }
+    ]
+}
