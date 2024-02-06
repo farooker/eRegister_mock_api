@@ -23,7 +23,7 @@ app.use(function (req, res, next) {
   next();
 });
 app.get("/", (req, res) => {
-  res.send("Express on Vercel ");
+  res.send("Hellow  R-Register mock APIs");
 });
 
  require('./routes/rsp')(app);
