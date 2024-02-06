@@ -22,6 +22,9 @@ app.use(function (req, res, next) {
   );
   next();
 });
+app.get("/", (req, res) => {
+  res.send("Express on Vercel ");
+});
 
  require('./routes/rsp')(app);
  require('./routes/partner')(app);
